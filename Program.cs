@@ -20,4 +20,9 @@ class Calculator
     {
         return a * b;
     }
+
+    static int Pembagian(int a, int b)
+    {
+        return a / b;
+    }
 }
